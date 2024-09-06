@@ -1,0 +1,70 @@
+
+***********************************
+            CURRICULUM VITAE
+***********************************
+
+Name: Sunil Kumar
+Contact Information:
+- Phone: 9798961950
+- Email: ersunilpd@gmail.com
+- Address: Sasaram Bihar -821115
+
+Objective:
+ I am seeking the vacant teaching role to deliver engaging and inclusive classes and prepare students for the next stage of their learning.
+
+Education:
+Pursuing Post Graduation, Computer Science & Application
+ [RGPV University ,Bhopal], [2023-2025]
+
+Graduation, Computer Science & Application
+ [RNTU University, Bhopal], [2018]
+ 
+
+Experience:
+1. [Software Developer & Data Analyst] - [Optimint Software Solution Pvt.ltd]
+   [2023] – [2024]
+   - Responsibilities:
+     - Create Dashboard for Analysis the data.
+     - Manage all data and find critical solution regarding their data.
+     - Make Report at the ending of shift off Daily
+
+2. [Computer Teacher] - [Computer Training Institute]
+   [2021] – [2023]
+   - Responsibilities:
+     - Teach all Subject Related to Computer
+     - Guided in Computer Lab 
+
+Skills:
+- HTML:
+-CSS:
+-Javascript:
+-Python:
+-MS Office:
+-Advance Excel:
+
+
+Projects:
+#E-commerce Website
+An e-commerce website is an online platform designed to facilitate the buying and selling of products and services over the internet. It serves as a digital storefront where businesses can display their products, and customers can browse, select, and purchase items from the comfort of their homes.
+Use Technology:- html,css,javascript,python,sql
+
+#School Management Fee System In Excel
+The School Management Fee Web Application is a comprehensive, user-friendly system designed to simplify and automate the process of managing school fees and related financial tasks. This application caters to schools, colleges, and educational institutions by offering a centralized platform to streamline fee collection, tracking, and management, reducing the workload of administrative staff and ensuring transparency in financial operations.
+Use Technology:- Excel
+
+#Take Quiz Online Web Application
+The "Take Quiz Online" application is an interactive and user-friendly platform designed to facilitate online assessments, quizzes, and learning evaluations. It caters to students, educators, and professionals seeking an efficient way to test knowledge, track progress, and improve learning outcomes.
+Use Technology:- html,css,javascript,python,sql, Bootstrap
+
+
+Languages:
+- [Hindi] (Native language)
+- [English] (Learn language)
+
+Hobbies and Interests:
+- [Writing story and poem]
+- [Listening Music]
+
+
+
+***********************************

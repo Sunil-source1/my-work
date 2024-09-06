@@ -1,0 +1,82 @@
+what is programming languages?
+
+प्रोग्रामिंग लैंग्वेज क्या है? (Programming Language in Hindi)
+प्रोग्रामिंग लैंग्वेज एक कंप्यूटर की हीं लैंग्वेज है जिसके जरिए प्रोग्रामर कंप्यूटर से कम्यूनिकेट करता है। कंप्यूटर के जरिए आज हम बहुत सारे काम आसानी से और जल्दी से कर सकते हैं। लेकिन किसी भी कार्य को करने के लिए कंप्यूटर को निर्देश दिया जाता है और उसी के जरिए कंप्यूटर काम करता है। कंप्यूटर को निर्देश प्रोग्रामिंग लैंग्वेज के माध्यम से हीं दिए जाते हैं। प्रोग्रामिंग लैंग्वेज को कंप्यूटर प्रोग्रामिंग या कोडींग के रूप में भी जाना जाता है।
+
+कंप्यूटर से कम्यूनिकेट करने के लिए प्रोग्रामिंग लैंग्वेज को इंसानों द्वारा बनाया गया है, इसलिए इसे कृत्रिम लैंग्वेज भी कहां जाता है। किसी भी विशिष्ट कार्य को करने के लिए प्रोग्रामिंग लैंग्वेज लिखा जाता है और कंम्पयूटर फिर उसी तरह कार्य करता। पाइथन, JavaScript, PHP, C, Java इत्यादि प्रोग्रामिंग लैंग्वेज के उदाहरण है। सभी कंम्पयूटर प्रोग्राम और सॉफ्टवेयर लिखने के लिए प्रोग्रामिंग लैंग्वेज का उपयोग किया जाता है।
+
+प्रोग्रामिंग लैंग्वेज की विशेषताएं ( Features of Programming Language in Hindi)
+• सिंटैक्स : सभी प्रोग्रामिंग लैंग्वेज का अपना सिंटैक्स होता है जिसमें सहीं कोड लिखने के नियम और स्ट्रक्चर शामिल होता है। सिंटैक्स की मदद से स्टेटमेंट और निर्देशों को फॉर्मेट और किया जा सकता है।
+
+• डाटा का प्रकार : प्रोग्रामिंग लैंग्वेज विभिन्न तरह के डाटा का प्रतिनिधित्व करती है।
+
+• वेरिएबल और मेमोरी मैनेजमेंट : वेरिएबल एक प्रोग्राम में डाटा के लिए प्लेसहॉल्डर के रूप में कार्य करते हैं। मेमोरी लुक से बचने के लिए मेमोरी मैनेजमेंट जरुरी है।
+
+• कंट्रोल स्ट्रक्चर : लूप (उदाहरण: For, While) और कंडिशनल स्टेटमेंट (If-Else, Switch) जैसे कंट्रोल स्ट्रक्चर प्रोग्रामर को प्रोग्राम नियंत्रित करने में मदद करता है। जिससे प्रोग्राम फ्लेक्सिबल और पावरफुल बन जाते हैं।
+
+• फंक्शन/मैथड : फंक्शन या मैथड प्रोग्रामर को जटिल काम को आसान, मैनेजेबल युनिट्स में परिवर्तित करने के लिए मदद करता है।
+
+प्रोग्रामिंग लैंग्वेज का इतिहास (Programming Language History in Hindi)
+प्रोग्रामिंग लैंग्वेज को सबसे पहले Ada Lovelace द्वारा 1843 में लिखा गया था। उन्होंने एनालिटिकल इंजन का उपयोग करके तैयार किया गया था। एडा लवलेस ने चार्ल्स बैबेज के लिए इसे तैयार किया था। हालांकि पहली वास्तविक प्रोग्रामिंग लैंग्वेज 1950 के दशक में FORTRAN के नाम से विकसित की गई थी। जिसका उपयोग वैज्ञानिक और इंजीनियर कैलकुलेशन के लिए किया जाता था। 1960 के दशक में COBOL, BASIC और ALGOL जैसी प्रोग्रामिंग लैंग्वेज विकसित की गई।
+
+ऑपरेटिंग सिस्टम और एप्लिकेशन लिखने के लिए सी और पास्कल जैसी लैंग्वेज को 1970 के दशक में विकसित किया गया। 1980 के दशक में स्मॉलटॉक, 1990 के दशक में पर्ल और पाइथन, 2000 के दशक में रूबी और PHP जैसी लैंग्वेज का विकास हुआ।
+
+Read to know: Python Programming is good for Beginners?
+
+प्रोग्रामिंग लैंग्वेज के प्रकार (Types of Programming Language in Hindi)
+
+प्रोग्रामिंग लैंग्वेज को दो प्रकार में बांटा गया है 1) लो लेवल प्रोग्रामिंग लैंग्वेज और 2) हाई लेवल प्रोग्रामिंग लैंग्वेज
+
+• लो लेवल प्रोग्रामिंग लैंग्वेज : इस प्रकार की लैंग्वेज को हार्डवेयर के लेवल का माना जाता है। इसे समझना बहुत मुश्किल होता है। यह लैंग्वेज सभी कंम्पयूटर में Run नहीं हो पाती। इस लैंग्वेज का प्रोग्राम काफी तेज एक्जीक्यूट होता है। लो लैंग्वेज प्रोग्रामिंग को दो प्रकार में बांटा गया है। a) मशीन लैंग्वेज और b) असेंबली लैंग्वेज
+
+1. मशीन लैंग्वेज : इस लैंग्वेज को सिर्फ कंप्यूटर हीं समझ सकता है। इस लैंग्वेज में सिर्फ बाइनरी यानी 0 से 1 अंकों का हीं प्रयोग होता है। यह एक ऐसी भाषा है जिसे कंप्यूटर बिना किसी टेक्नोलॉजी के समझ लेता है। शुरूआत में कंप्यूटर के लिए प्रोग्राम लिखने के लिए मशीन लैंग्वेज का हीं इस्तेमाल किया जाता था। इस लैंग्वेज में लिखे गए प्रोग्राम में गलती होने पर उसे ढूंढना और ठीक कर पाना काफी मुश्किल है।
+
+2. असेंबली लैंग्वेज : मशीन लैंग्वेज की कमी को दूर करने के लिए असेंबली लैंग्वेज विकसित की गई। इस लैंग्वेज में अक्षर और चिन्हों का इस्तेमाल किया जाता है। इसलिए इसे Symbol लैंग्वेज भी कहां जाता है। इसे समझना और याद रखना बहुत आसान है।इसका उपयोग माइक्रोप्रोसेसर पर आधारित डिवाइस में और रियल टाइम सिस्टम में किया जाता है। इस लैंग्वेज में प्रोग्राम को मोडिफाइ करना आसान होता है।
+
+• हाई लेवल प्रोग्रामिंग लैंग्वेज : इस लैंग्वेज में अक्षर, संख्या और चिन्हों का उपयोग किया जाता है। लो लेवल प्रोग्रामिंग लैंग्वेज के विपरित इस लैंग्वेज को इंसानों द्वारा समझना आसान होता है वहीं कंप्यूटर के लिए कठिन होता है। इसलिए हाई लेवल प्रोग्रामिंग लैंग्वेज को कंप्यूटर के लिए आसान बनाने के लिए compiler या interpreter की मदद से मशीन लैंग्वेज में परिवर्तित किया जाता है। JavaScript, C, Java, पाइथन, पास्कल और FORTRAN हाई लेवल प्रोग्रामिंग लैंग्वेज है।
+
+Why should we learn programming language?
+• communicate with computers: interacting with computers and giving them instructions.
+• Problem Solving: Programming develops ability to solve problems and think logically.
+• Career Opportunities: Programming skills are in high demand across industries.
+• Automation: Programming allows you to automate tasks, making workflows more efficient.
+• Creativity: Programming enables to bring creative ideas to life through software.
+• Data Analysis: It refers to the process of examining and interpreting data to extract meaningful insights, patterns, and information from it
+• Technological Understanding: Programming helps you understand and interact with technology effectively.
+• Personal Projects: Programming allows you to create personal projects and tools.
+• Collaboration: Programming facilitates collaboration with others on software development.
+• Critical Thinking: Programming hones your critical thinking and debugging skills.
+• Future-Proofing: As technology advances, programming skills become increasingly essential for everyday tasks and career success. ( भप्तिष्य सुरप्तित बनाना" या "भप्तिष्य के प्तिए तैयार करना")
+❖ Example Of Programming Language:
+• C, C++, JAVA, PYTHON, JavaScript, C#, Php, Go, Swift, Ruby, TypeScript Etc.
+❖ Why we Should Learn Python?
+❖ Learning Python several simple and compelling reasons.
+• Easy to Learn: Python's simple and readable syntax makes it beginner-friendly.
+• Versatile: Python can be used for web development, data analysis, machine learning, automation, and more.
+• Rich Ecosystem: Python's vast library of modules and packages simplifies coding tasks.
+• Community Support: Python has an active and supportive community.
+• Rapid Prototyping: Python's quick development cycle allows you to experiment, test ideas, and build functional prototypes efficiently.
+• Future-Proof: As technology advances, Python's relevance is expected to grow.
+• Scripting and Automation: Python's scripting capabilities make it ideal for automating repetitive tasks, saving time and effort.
+• Entry Point to Programming: Learning Python can serve as a stepping stone to understanding other programming languages and concepts.
+• Educational Value: Python is widely used in educational settings.
+• High Demand: Python is in high demand in the job market.
+❖ How we can Learn any Programming Language?
+• Define Your Goal
+• Choose a Language
+• Find Learning Resources
+• Understand Basic Concepts
+• Practice Regularly
+• Work on Projects
+• Seek Help and Collaborate
+• Challenge Yourself
+• Review and Reflect & Build a Portfolio and Keep Learning
+• अपने िक्ष्य पररभाप्तित करें
+• एक भािा चुनें
+• सीखने के संसाधन खोिें
+• बुप्तनयादी अिधारणाओं को समझें
+• प्तनयप्तमत रूप से अभ्यास करें
+• पररयोिनाओं पर काम करें
+• सहायता िें और सहयोग करें
+•आपने आप को चुनौती दो
+• समीिा करें और प्तचंतन करें तथा एक पोर्तफोप्तियो बनाएं और सीखते रहें
